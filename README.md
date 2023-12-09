@@ -18,6 +18,3 @@ While not a nomad just yet, my heart is set on navigating the vast digital lands
 
 HTML | CSS | JavaScript | React | PHP | MySQL | Node.js
 
-Join me on this adventure as I embark on the path of continuous learning, professional growth, and the pursuit of becoming a nomad in the ever-evolving world of technology.
-
-Feel free to tweak any part to better align with your personal journey and experiences! ✨
