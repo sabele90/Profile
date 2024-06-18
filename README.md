@@ -16,5 +16,5 @@ While not a nomad just yet, my heart is set on navigating the vast digital lands
 
 🛠️ Tech Toolbox:
 
-HTML | CSS | JavaScript | React | PHP | MySQL | Node.js
+HTML | CSS | JavaScript | React | PHP | Laravel | MySQL | Node.js | 
 
